@@ -1,11 +1,9 @@
-# Halo, Saya [Nama Anda] 👋
+# Halo, Saya Ersha 👋
 
 Saya adalah seorang developer dengan minat di bidang:
 - **Web Development**
 - **Mobile Development**
-- **Manga API Enthusiast**
-
-✨ Proyek terbaru: [Ersha Manga API](https://api-ershamanga.vercel.app)
+- **API Enthusiast**
 
 📫 Hubungi saya di: [email@example.com](mailto:email@example.com) | [LinkedIn](https://linkedin.com/in/username)
 
